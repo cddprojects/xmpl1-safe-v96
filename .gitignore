@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / generated credentials (never commit)
+servers.json
+cf-accounts.json
+result_*.json
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Kalkulator, klucze, zakupy i laptop na tle rosnącej strzałki">
+<rect width="1280" height="720" fill="#f6f1e4"/>
+<path d="M120 250c180 40 260-20 420 10 180 34 300-80 520-40" fill="none" stroke="#f0d56a" stroke-width="28" stroke-linecap="round"/>
+<path d="M1020 196l70 28-46 18" fill="#f0d56a"/>
+<circle cx="1040" cy="120" r="70" fill="#f6e7c2"/>
+<circle cx="180" cy="140" r="36" fill="#e25b45" opacity=".35"/>
+<g transform="translate(90 300)">
+<rect width="190" height="250" rx="16" fill="#1f5a4f"/>
+<rect x="18" y="18" width="154" height="56" rx="8" fill="#d5ebe3"/>
+<g fill="#f0d56a">
+<rect x="22" y="96" width="36" height="28" rx="4"/>
+<rect x="68" y="96" width="36" height="28" rx="4"/>
+<rect x="114" y="96" width="36" height="28" rx="4" fill="#e25b45"/>
+<rect x="22" y="136" width="36" height="28" rx="4"/>
+<rect x="68" y="136" width="36" height="28" rx="4"/>
+<rect x="114" y="136" width="36" height="28" rx="4"/>
+<rect x="22" y="176" width="36" height="28" rx="4"/>
+<rect x="68" y="176" width="82" height="28" rx="4" fill="#e25b45"/>
+</g>
+</g>
+<g transform="translate(330 390)">
+<ellipse cx="40" cy="150" rx="70" ry="16" fill="#e6d3b0"/>
+<ellipse cx="40" cy="128" rx="62" ry="16" fill="#f0d56a" stroke="#c9a227" stroke-width="3"/>
+<ellipse cx="40" cy="108" rx="62" ry="16" fill="#f0d56a" stroke="#c9a227" stroke-width="3"/>
+<ellipse cx="40" cy="88" rx="62" ry="16" fill="#f0d56a" stroke="#c9a227" stroke-width="3"/>
+<ellipse cx="40" cy="68" rx="62" ry="16" fill="#f6e7a8" stroke="#c9a227" stroke-width="3"/>
+<rect x="16" y="62" width="48" height="6" rx="3" fill="#1a463d"/>
+</g>
+<g transform="translate(500 430)">
+<circle cx="34" cy="40" r="16" fill="#e25b45"/>
+<rect x="44" y="36" width="70" height="10" rx="4" fill="#c9a227" transform="rotate(25 44 36)"/>
+<circle cx="118" cy="78" r="10" fill="#1f5a4f"/>
+<rect x="70" y="70" width="54" height="8" rx="3" fill="#1a463d" transform="rotate(-20 70 70)"/>
+<path d="M20 120h70l18-28H48z" fill="#1f5a4f"/>
+<rect x="36" y="92" width="28" height="22" fill="#d5ebe3"/>
+</g>
+<g transform="translate(700 340)">
+<path d="M40 40h150l30 150H20z" fill="#e25b45"/>
+<path d="M70 40c0-28 80-28 90 0" fill="none" stroke="#1a463d" stroke-width="10"/>
+<rect x="70" y="90" width="28" height="70" rx="6" fill="#f0d56a"/>
+<circle cx="128" cy="120" r="22" fill="#d5ebe3"/>
+<path d="M150 108c16 8 20 28 8 36" fill="none" stroke="#1f5a4f" stroke-width="6"/>
+</g>
+<g transform="translate(980 360)">
+<rect width="220" height="140" rx="12" fill="#4d5854"/>
+<rect x="16" y="16" width="188" height="108" rx="6" fill="#1f5a4f"/>
+<path d="M40 100l36-40 24 24 28-36 40 52z" fill="#d5ebe3"/>
+<circle cx="150" cy="58" r="12" fill="#f0d56a"/>
+<rect x="-20" y="140" width="260" height="16" rx="6" fill="#24342f"/>
+</g>
+<g transform="translate(80 80)">
+<rect x="20" y="70" width="16" height="50" fill="#c9a88a"/>
+<ellipse cx="28" cy="56" rx="36" ry="16" fill="#1f5a4f"/>
+<ellipse cx="48" cy="40" rx="18" ry="10" fill="#d5ebe3"/>
+</g>
+</svg>
